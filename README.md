@@ -1,8 +1,4 @@
-# Text-Mining-MiniProject01-newsgroup
-Text Mining-MiniProject01-newsgroup
-Mini-Project (24 Marks)
-
-NOTE:
+# TextMining_MiniProject01_Viterbi_NewsGroupDocuments
 
 1) ALL  THE QUESTIONS ARE MANDATORY
 
